@@ -13,8 +13,8 @@ pip install pandas matplotlib scikit-learn
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/insurance-analysis.git
-cd insurance-analysis
+git clone https://github.com/seyyedmsl82/Insurance.git
+cd Insurance
 ```
 
 Run the script:
